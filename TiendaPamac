@@ -8,3 +8,6 @@ sudo nano /etc/pacman.conf
 Include = /etc/pacman.d/chaotic-mirrorlist
 
 sudo pacman -Syu pamac-aur
+
+
+
