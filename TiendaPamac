@@ -9,5 +9,3 @@ Include = /etc/pacman.d/chaotic-mirrorlist
 
 sudo pacman -Syu pamac-aur
 
-
-
